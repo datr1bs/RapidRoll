@@ -1,4 +1,4 @@
-# OOP_Game_RapidRoll
+# RapidRoll
 
 "Rapid Roll" Object-Oriented Game Using C++ and SFML Framework
 
